@@ -1,6 +1,6 @@
 # Predicting-Loan-Approval-Status-Using-Machine-Learning
 
-####Project Overview
+#### Project Overview
 
 This project focuses on predicting loan approval status using a real-world dataset. The work was developed in two phases:
 
