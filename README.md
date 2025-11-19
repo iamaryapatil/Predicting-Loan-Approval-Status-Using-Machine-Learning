@@ -9,7 +9,7 @@ Phase 1 – Data Understanding & Exploration: Understanding the dataset, identif
 Phase 2 – Machine Learning Modelling & Evaluation: Building, tuning, and evaluating multiple classification models to predict loan approval and generate actionable insights.
 
 #### Objectives
- -Perform exploratory data analysis (EDA) to understand applicant and loan characteristics.
+- Perform exploratory data analysis (EDA) to understand applicant and loan characteristics.
 - Clean, transform, and prepare data for predictive modelling.
 - Build and compare multiple classification models to predict loan approval.
 - Evaluate model performance using industry-standard metrics.
@@ -28,23 +28,23 @@ Phase 2 – Machine Learning Modelling & Evaluation: Building, tuning, and evalu
 - Split dataset into training and testing sets for model development.
 
 #### Machine Learning Modelling
-## Classification Models
+#### Classification Models
 - Logistic Regression
 - Random Forest
 - K-Nearest Neighbours
 - Support Vector Machine
 
-## Regression Models
+#### Regression Models
 - Linear Regression (for predicting continuous loan amounts as an additional analysis)
 
 #### Model Evaluation
-## Classification Metrics
+#### Classification Metrics
 - Accuracy
 - Precision & Recall
 - F1-Score
 - Confusion Matrix
 
-## Regression Metrics
+#### Regression Metrics
 - MAE, MSE, RMSE
 - R-squared Score
 
